@@ -1,9 +1,8 @@
-## Learn! Kindergarten 1st Edition
+# Learn! Kindergarten 1st Edition
 <p align="center">
 	<img height="200" src="./Assets/Art/title.png">
 </p>
 
-<h2> Done by: </h2>
-
-    - Jason Jeremy Wijadi
-	- Pamela Andrea Wiran
+## Done by:
+    - Jason Jeremy Wijadi (Construct 2 + SFX)
+	- Pamela Andrea Wiran (Art + SFX)
