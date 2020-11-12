@@ -4,5 +4,8 @@
 </p>
 
 ## Done by:
-    - Jason Jeremy Wijadi (Construct 2 + SFX)
-	- Pamela Andrea Wiran (Art + SFX)
+| Name	| ID	| Roles	| Email	|
+| ---	| ---	| ---	| ---	|
+| Jason Jeremy Wijadi | 2440077301 | Construct 2 + SFX | jason.wijadi@binus.ac.i<span>d |
+| Pamela Andrea Wiran | 2440074110 | Art + SFX | pamela.wiran@binus.ac.i<span>d |
+---
